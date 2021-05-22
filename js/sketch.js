@@ -18,7 +18,7 @@ function draw() {
     circle(x, y, radius * 2);
     pop();
     textSize(20);
-    text(name, x, 65);
+    text(name, x - radius / 2, y + radius * 2);
 
     action({ x1: x - radius, y1: y, x2: x + radius, y2: y });
     action({ x1: x, y1: y - radius, x2: x, y2: y + radius });

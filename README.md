@@ -2,6 +2,6 @@
 
 Algoritmos realizados:
 
-- Ecuación punto-Pendiente
+- Ecuación Punto-Pendiente
 - DDA
 - Bresenham
